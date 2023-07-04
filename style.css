@@ -154,6 +154,10 @@
   font-weight: 400;
 }
 
+strong {
+  color: #0046af;
+}
+
 #galery {
   background-color: #0d6efd;
 }
