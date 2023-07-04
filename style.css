@@ -16,6 +16,10 @@
   padding-top: 100px;
 }
 
+.pembungkus {
+  width: 200px;
+}
+
 .slogan h2 {
   font-family: 'Caprasimo';
   font-size: 30px;
@@ -176,6 +180,13 @@ strong {
   justify-content: space-around;
 }
 
+.row-jumbotron {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
 .col-4 {
   flex-basis: 25%;
   padding: 10px;
@@ -317,6 +328,10 @@ strong {
 
   .row-project {
     text-align: center;
+  }
+
+  .row-jumbotron {
+    text-align: start;
   }
 
 
